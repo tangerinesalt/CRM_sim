@@ -1,0 +1,42 @@
+[
+  {
+    "id": "u-admin",
+    "username": "admin",
+    "displayName": "陈明",
+    "role": "admin",
+    "phone": "13800000001",
+    "email": "admin@demo-crm.local",
+    "teamId": "team-core",
+    "status": "active"
+  },
+  {
+    "id": "u-manager01",
+    "username": "manager01",
+    "displayName": "李娜",
+    "role": "manager",
+    "phone": "13800000002",
+    "email": "manager01@demo-crm.local",
+    "teamId": "team-sales",
+    "status": "active"
+  },
+  {
+    "id": "u-staff01",
+    "username": "staff01",
+    "displayName": "王强",
+    "role": "staff",
+    "phone": "13800000003",
+    "email": "staff01@demo-crm.local",
+    "teamId": "team-sales",
+    "status": "active"
+  },
+  {
+    "id": "u-staff02",
+    "username": "staff02",
+    "displayName": "赵敏",
+    "role": "staff",
+    "phone": "13800000004",
+    "email": "staff02@demo-crm.local",
+    "teamId": "team-sales",
+    "status": "active"
+  }
+]

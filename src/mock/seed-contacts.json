@@ -1,0 +1,46 @@
+[
+  {
+    "id": "CT001",
+    "customerId": "C001",
+    "name": "刘洋",
+    "position": "采购经理",
+    "phone": "13900001111",
+    "email": "liuyang@demo.local",
+    "wechat": "demo_liuyang",
+    "isPrimary": true,
+    "remark": "主要沟通报价和部署周期。"
+  },
+  {
+    "id": "CT002",
+    "customerId": "C002",
+    "name": "周倩",
+    "position": "运营负责人",
+    "phone": "13900002222",
+    "email": "zhouqian@demo.local",
+    "wechat": "demo_zhouqian",
+    "isPrimary": true,
+    "remark": "关注校区续费提醒。"
+  },
+  {
+    "id": "CT003",
+    "customerId": "C003",
+    "name": "孙磊",
+    "position": "店主",
+    "phone": "13900003333",
+    "email": "sunlei@demo.local",
+    "wechat": "demo_sunlei",
+    "isPrimary": true,
+    "remark": "渠道合作意向较低。"
+  },
+  {
+    "id": "CT004",
+    "customerId": "C004",
+    "name": "林悦",
+    "position": "负责人",
+    "phone": "13900004444",
+    "email": "linyue@demo.local",
+    "wechat": "demo_linyue",
+    "isPrimary": true,
+    "remark": "已确认年度服务包。"
+  }
+]

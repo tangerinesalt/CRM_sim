@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ORD001",
+    "customerId": "C004",
+    "opportunityId": "OP002",
+    "orderNo": "DEMO-20260501-001",
+    "amount": 28000,
+    "status": "已确认",
+    "ownerId": "u-staff02",
+    "remark": "赢单商机自动生成的模拟订单。",
+    "createdAt": "2026-05-01",
+    "updatedAt": "2026-05-01"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "L001",
+    "companyName": "云帆医疗科技",
+    "contactName": "何晨",
+    "phone": "13700001111",
+    "email": "hechen@demo.local",
+    "source": "官网表单",
+    "level": "高",
+    "ownerId": "u-staff01",
+    "status": "跟进中",
+    "remark": "希望了解客户管理和售后流程。",
+    "createdAt": "2026-05-12",
+    "updatedAt": "2026-05-13"
+  },
+  {
+    "id": "L002",
+    "companyName": "远山文旅集团",
+    "contactName": "马宁",
+    "phone": "13700002222",
+    "email": "maning@demo.local",
+    "source": "展会",
+    "level": "中",
+    "ownerId": "u-staff02",
+    "status": "已分配",
+    "remark": "关注多门店客户资料统一管理。",
+    "createdAt": "2026-05-11",
+    "updatedAt": "2026-05-12"
+  },
+  {
+    "id": "L003",
+    "companyName": "启点智能制造",
+    "contactName": "唐欣",
+    "phone": "13700003333",
+    "email": "tangxin@demo.local",
+    "source": "朋友推荐",
+    "level": "高",
+    "ownerId": "",
+    "status": "新线索",
+    "remark": "未分配，等待主管处理。",
+    "createdAt": "2026-05-13",
+    "updatedAt": "2026-05-13"
+  }
+]

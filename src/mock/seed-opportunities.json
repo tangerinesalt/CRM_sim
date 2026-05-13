@@ -1,0 +1,44 @@
+[
+  {
+    "id": "OP001",
+    "customerId": "C001",
+    "name": "CRM 试点采购",
+    "amount": 50000,
+    "stage": "方案报价",
+    "probability": 60,
+    "ownerId": "u-staff01",
+    "expectedCloseDate": "2026-06-15",
+    "status": "进行中",
+    "lostReason": "",
+    "createdAt": "2026-05-02",
+    "updatedAt": "2026-05-13"
+  },
+  {
+    "id": "OP002",
+    "customerId": "C004",
+    "name": "年度服务包",
+    "amount": 28000,
+    "stage": "赢单",
+    "probability": 100,
+    "ownerId": "u-staff02",
+    "expectedCloseDate": "2026-05-01",
+    "status": "已赢单",
+    "lostReason": "",
+    "createdAt": "2026-04-18",
+    "updatedAt": "2026-05-01"
+  },
+  {
+    "id": "OP003",
+    "customerId": "C002",
+    "name": "校区客户管理系统",
+    "amount": 36000,
+    "stage": "需求确认",
+    "probability": 40,
+    "ownerId": "u-staff02",
+    "expectedCloseDate": "2026-06-30",
+    "status": "进行中",
+    "lostReason": "",
+    "createdAt": "2026-05-05",
+    "updatedAt": "2026-05-12"
+  }
+]

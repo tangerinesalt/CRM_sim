@@ -1,0 +1,58 @@
+[
+  {
+    "id": "C001",
+    "name": "星河科技有限公司",
+    "type": "企业客户",
+    "industry": "软件服务",
+    "region": "上海",
+    "level": "A 重点客户",
+    "mainContactId": "CT001",
+    "ownerId": "u-staff01",
+    "status": "跟进中",
+    "remark": "重点试点客户，正在比较部署方案。",
+    "createdAt": "2026-04-20",
+    "updatedAt": "2026-05-13"
+  },
+  {
+    "id": "C002",
+    "name": "蓝海教育咨询",
+    "type": "企业客户",
+    "industry": "教育培训",
+    "region": "杭州",
+    "level": "B 普通客户",
+    "mainContactId": "CT002",
+    "ownerId": "u-staff02",
+    "status": "待跟进",
+    "remark": "关注校区客户回访效率。",
+    "createdAt": "2026-04-28",
+    "updatedAt": "2026-05-10"
+  },
+  {
+    "id": "C003",
+    "name": "北辰贸易商行",
+    "type": "渠道客户",
+    "industry": "批发零售",
+    "region": "苏州",
+    "level": "C 低优先级客户",
+    "mainContactId": "CT003",
+    "ownerId": "u-staff01",
+    "status": "沉默客户",
+    "remark": "近期响应较少。",
+    "createdAt": "2026-03-18",
+    "updatedAt": "2026-05-01"
+  },
+  {
+    "id": "C004",
+    "name": "青木设计工作室",
+    "type": "企业客户",
+    "industry": "设计服务",
+    "region": "南京",
+    "level": "B 普通客户",
+    "mainContactId": "CT004",
+    "ownerId": "u-staff02",
+    "status": "已成交",
+    "remark": "已购买年度服务包。",
+    "createdAt": "2026-04-02",
+    "updatedAt": "2026-05-01"
+  }
+]

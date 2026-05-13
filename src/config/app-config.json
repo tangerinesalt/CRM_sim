@@ -1,0 +1,28 @@
+{
+  "appName": "MiniCRM Simulator",
+  "defaultRole": "admin",
+  "identitySwitching": true,
+  "allowReset": true,
+  "allowMockImport": true,
+  "allowRealDataImport": false,
+  "defaultTheme": "light",
+  "leadStatuses": ["新线索", "已分配", "跟进中", "已转客户", "无效线索"],
+  "leadSources": ["官网表单", "展会", "朋友推荐", "广告投放", "电话咨询"],
+  "leadLevels": ["高", "中", "低"],
+  "customerTypes": ["企业客户", "个人客户", "渠道客户"],
+  "customerLevels": ["A 重点客户", "B 普通客户", "C 低优先级客户"],
+  "customerStatuses": ["待跟进", "跟进中", "已成交", "沉默客户", "流失客户"],
+  "salesStages": [
+    { "name": "初步接触", "probability": 20 },
+    { "name": "需求确认", "probability": 40 },
+    { "name": "方案报价", "probability": 60 },
+    { "name": "谈判中", "probability": 80 },
+    { "name": "赢单", "probability": 100 },
+    { "name": "输单", "probability": 0 }
+  ],
+  "followMethods": ["电话", "微信", "邮件", "拜访", "线上会议"],
+  "followResults": ["客户有兴趣", "需要报价", "等待决策", "暂无预算", "已成交", "已拒绝"],
+  "orderStatuses": ["待确认", "已确认", "已完成", "已取消"],
+  "ticketTypes": ["使用咨询", "功能问题", "合同问题", "续费咨询", "投诉建议"],
+  "ticketStatuses": ["待处理", "处理中", "已解决", "已关闭"]
+}

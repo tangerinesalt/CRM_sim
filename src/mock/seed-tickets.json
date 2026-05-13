@@ -1,0 +1,15 @@
+[
+  {
+    "id": "T001",
+    "customerId": "C004",
+    "orderId": "ORD001",
+    "type": "使用咨询",
+    "description": "客户咨询售后服务包中的回访记录使用方式。",
+    "handlerId": "u-staff02",
+    "status": "处理中",
+    "result": "",
+    "satisfactionScore": 0,
+    "createdAt": "2026-05-03",
+    "closedAt": ""
+  }
+]

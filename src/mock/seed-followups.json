@@ -1,0 +1,35 @@
+[
+  {
+    "id": "F001",
+    "customerId": "C001",
+    "opportunityId": "OP001",
+    "userId": "u-staff01",
+    "method": "电话",
+    "content": "客户希望了解报价方案和部署周期。",
+    "result": "需要报价",
+    "nextFollowTime": "2026-05-15",
+    "createdAt": "2026-05-13"
+  },
+  {
+    "id": "F002",
+    "customerId": "C002",
+    "opportunityId": "OP003",
+    "userId": "u-staff02",
+    "method": "微信",
+    "content": "客户正在内部评估预算。",
+    "result": "等待决策",
+    "nextFollowTime": "2026-05-20",
+    "createdAt": "2026-05-12"
+  },
+  {
+    "id": "F003",
+    "customerId": "C003",
+    "opportunityId": "",
+    "userId": "u-staff01",
+    "method": "邮件",
+    "content": "发送渠道合作资料，暂未收到回复。",
+    "result": "暂无预算",
+    "nextFollowTime": "2026-05-10",
+    "createdAt": "2026-05-01"
+  }
+]

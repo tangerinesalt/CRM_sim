@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "label": "管理员",
+    "scope": "all",
+    "modules": ["dashboard", "leads", "customers", "opportunities", "followups", "orders", "tickets", "reports", "settings"],
+    "operations": ["view", "create", "edit", "delete", "assign", "reset", "configure", "export", "import"]
+  },
+  "manager": {
+    "label": "主管",
+    "scope": "team",
+    "modules": ["dashboard", "leads", "customers", "opportunities", "followups", "orders", "tickets", "reports"],
+    "operations": ["view", "create", "edit", "assign", "export"]
+  },
+  "staff": {
+    "label": "员工",
+    "scope": "self",
+    "modules": ["dashboard", "leads", "customers", "opportunities", "followups", "orders", "tickets"],
+    "operations": ["view", "create", "edit"]
+  }
+}
